@@ -16,7 +16,8 @@ https://beauty-zen.pages.dev/
 
 ## 技術スタック
 
-- Next.js
+- React
+- Vite
 - TypeScript
 - Tailwind CSS
 
